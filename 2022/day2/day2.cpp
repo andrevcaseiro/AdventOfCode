@@ -1,8 +1,5 @@
-#include <stdlib.h>
-
 #include <fstream>
 #include <iostream>
-#include <queue>
 
 int partOne() {
     std::fstream inputFile;
