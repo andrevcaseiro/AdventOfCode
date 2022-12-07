@@ -78,7 +78,6 @@ int partTwo() {
 }
 
 int main() {
-    std::cout << 5 / 2 << std::endl;
     std::cout << "Part One: " << partOne() << std::endl;
     std::cout << "Part Two: " << partTwo() << std::endl;
 }
