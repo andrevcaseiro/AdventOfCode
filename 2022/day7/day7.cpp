@@ -70,7 +70,7 @@ class Node {
 
 void getInput(Node* root) {
     std::fstream inputFile;
-    char buffer[21];
+    char buffer[128];
     Node* currDir = root;
     inputFile.open("input.txt", std::ios::in);
 
