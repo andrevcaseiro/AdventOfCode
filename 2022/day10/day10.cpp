@@ -1,6 +1,5 @@
 #include <fstream>
 #include <iostream>
-#include <unordered_set>
 
 void tick1(int &cycle, int reg, int &signalStrengthSum) {
     cycle++;
